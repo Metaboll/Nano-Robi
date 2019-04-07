@@ -5,7 +5,7 @@ Just run face.py
 
 With this code you could control the head's robot;
 
-[*] Servo
+⋅⋅* Servo
 [*] Oled eyes
 [*] Vision Camera
 
