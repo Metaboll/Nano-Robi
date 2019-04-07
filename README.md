@@ -5,9 +5,7 @@ Just run face.py
 
 With this code you could control the head's robot;
 
-Servo
-Oled eyes
-Raspberry Camera
+Servo, Oled eyes  & Raspberry Camera
 
 ![Screenshot](robi.jpeg)
 
